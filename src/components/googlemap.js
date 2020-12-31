@@ -24,7 +24,7 @@ class MapContainer extends Component {
 
   componentDidMount() {
     // set Google Maps Geocoding API for purposes of quota management. Its optional but recommended.
-    Geocode.setApiKey('AIzaSyC4YOXX43hNkUFFtxLlALsnWk49LAlvz70');
+    Geocode.setApiKey('AIzaSyCs8zgkvXjenh0x2eZSuaBma0_9iZAnbV0');
     // Enable or disable logs. Its optional.
     Geocode.enableDebug();
 
